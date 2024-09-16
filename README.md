@@ -1,7 +1,6 @@
-## Hi there 👋
+![Header](./github-header-image_1.png)
 
 
-![Header](./github-header-image.png)
 <!--
 **jeremyakd/jeremyakd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
